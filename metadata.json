@@ -1,0 +1,7 @@
+{
+  "name": "Whats Up With...",
+  "description": "A cozy, holiday-themed family update hub featuring 3D flip cards, AI-assisted greetings, and complex family structures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
